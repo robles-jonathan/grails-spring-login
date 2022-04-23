@@ -1,5 +1,5 @@
 {
-    "groovyLint.enable": false,
+    "groovyLint.enable": true,
     "groovyLint.fix.enable": false,
     "groovyLint.format.useDocumentIndentSize": true
 }
